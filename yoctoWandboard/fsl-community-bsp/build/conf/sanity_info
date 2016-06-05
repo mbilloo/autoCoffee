@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/mbilloo/yoctoWandboard/fsl-community-bsp/build/tmp
+SSTATE_DIR /home/mbilloo/yoctoWandboard/fsl-community-bsp/build/sstate-cache
